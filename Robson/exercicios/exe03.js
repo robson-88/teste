@@ -1,0 +1,12 @@
+const num1 = 3
+const num2 = 4
+const num3 = 5
+const num4 = 234
+const resultado1 = (num1 + num2)
+const resultado2 = (num1 * num3) / 2 
+const resultado3 = (num2 - num3) * -1
+const resultado4 = (num4 % num3)
+console.log(num1, "+", num2, "=", resultado1)
+console.log(num1, "x", num3, "/", 2,"=",resultado2,) 
+console.log(num3, "-", num2, "x", -1, "=", resultado3)
+console.log(num4, "%", num3,"=", resultado4,)

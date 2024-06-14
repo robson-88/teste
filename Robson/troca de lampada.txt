@@ -1,0 +1,6 @@
+1-pegar a lampada.
+2-pegar a escada e abrir.
+3-subir a escada.
+4-retirar a lampada queimada.
+5-colocar a lampada nova.
+6-descer a escada.
